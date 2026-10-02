@@ -6,6 +6,7 @@
 
 ### Motivation & Vision
 My primary motivation for developing ByteSized comes from my academic background. My first degree is in dietetics, and I am currently working on my second degree in computer science. During my time working in the field of nutrition, I saw firsthand that traditional nutrition tracking tools often do more harm than good, leading into obsessive calorie counting, mental overwhelm, and abandoned health goals. The real key to long-term health isn’t about obsessing over mirco/macro nutrients rather than building sustainable daily habits. 
+
 Now studying computer science, I realize that software engineering can help resolve this issue. I want to build ByteSized to create a wellness companion that shifts focus from restrictive logging and toward ‘byte-sized’ routines. In practice, ByteSized will be used as a desktop application centered around a clean, stress-free user dashboard. 
 
 
