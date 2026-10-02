@@ -9,5 +9,5 @@ My primary motivation for developing ByteSized comes from my academic background
 
 Now studying computer science, I realize that software engineering can help resolve this issue. I want to build ByteSized to create a wellness companion that shifts focus from restrictive logging and toward ‘byte-sized’ routines. In practice, ByteSized will be used as a desktop application centered around a clean, stress-free user dashboard. 
 
-
+### Description
 A wellness companion designed to simplify healthy living through actionable, living-tech habits. By transforming complex nutritional data into "byte-sized" steps, the goal is to take away the feeling of being overwhelmed with microscopic calorie counting. The application focuses on helping people build long-term, actionable habits.
